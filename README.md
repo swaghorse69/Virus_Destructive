@@ -1,2 +1,1 @@
-# Virus_Destructive
- This virus can destroy your computer :-)
+forked bcz i needed som funky visuals O_o
